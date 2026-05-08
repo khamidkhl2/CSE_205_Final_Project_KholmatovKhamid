@@ -1,0 +1,26 @@
+[
+    {
+        "item_id": "TEST001",
+        "item_name": "Test Backpack",
+        "category": "Accessories",
+        "location_found": "Campus",
+        "status": "Unclaimed",
+        "date_added": "2026-05-08 10:30:22"
+    },
+    {
+        "item_id": "TEST002",
+        "item_name": "Test Phone",
+        "category": "Electronics",
+        "location_found": "Dorm",
+        "status": "Unclaimed",
+        "date_added": "2026-05-08 10:30:22"
+    },
+    {
+        "item_id": "TEST003",
+        "item_name": "Test Book",
+        "category": "Documents",
+        "location_found": "Library",
+        "status": "Unclaimed",
+        "date_added": "2026-05-08 10:30:22"
+    }
+]
