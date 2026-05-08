@@ -1,0 +1,42 @@
+[
+    {
+        "item_id": "ITEM001",
+        "item_name": "Blue Backpack",
+        "category": "Accessories",
+        "location_found": "Library Building",
+        "status": "Unclaimed",
+        "date_added": "2026-05-08 10:30:00"
+    },
+    {
+        "item_id": "ITEM002",
+        "item_name": "iPhone 14",
+        "category": "Electronics",
+        "location_found": "Cafeteria",
+        "status": "Claimed",
+        "date_added": "2026-05-07 14:45:00"
+    },
+    {
+        "item_id": "ITEM003",
+        "item_name": "Gold Wedding Ring",
+        "category": "Jewelry",
+        "location_found": "Student Center",
+        "status": "Unclaimed",
+        "date_added": "2026-05-08 09:15:00"
+    },
+    {
+        "item_id": "ITEM004",
+        "item_name": "Red Hoodie",
+        "category": "Clothing",
+        "location_found": "Gymnasium",
+        "status": "Unclaimed",
+        "date_added": "2026-05-06 16:20:00"
+    },
+    {
+        "item_id": "ITEM005",
+        "item_name": "Student ID Card",
+        "category": "Documents",
+        "location_found": "Main Gate",
+        "status": "Claimed",
+        "date_added": "2026-05-05 11:00:00"
+    }
+]
